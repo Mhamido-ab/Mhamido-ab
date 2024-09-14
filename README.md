@@ -55,6 +55,5 @@ Seeking a challenging position where I can utilize my skills and educational bac
 
 ---
 
-💼 [LinkedIn](www.linkedin.com/in/mohamed-hamido-3b2514171 
-)
+💼 [LinkedIn](www.linkedin.com/in/mohamed-hamido-3b2514171 )
 🐦 [Twitter](Your Twitter URL here)
