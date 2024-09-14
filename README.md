@@ -1,78 +1,61 @@
-# 👋 Hello, I'm Mohamed Hamido Hussein!
+# 👋 Hi, I'm Mohamed Hamido Hussein
 
-- 📍 **Location**: Cairo, Egypt
-- 📧 **Email**: [mohamedhamedo135@gmail.com](mailto:mohamedhamedo135@gmail.com)
-- 📞 **Phone**: +20 1129995065
-
----
+📍 Giza, Egypt | 📞 01129995065 | 📧 mohamedhamedo135@gmail.com
 
 ## 🎯 Objective
-Seeking a job opportunity where my skills and educational background can be developed.
-
----
+Seeking a challenging position where I can utilize my skills and educational background to contribute to organizational growth while furthering my professional development.
 
 ## 🎓 Education
-- **Bachelor's Degree in Commerce**  
-  📅 Graduated: 2011
-
----
+- Bachelor of Commerce, 2011
 
 ## 💼 Work Experience
-### Customer Service and Technical Support
-- **Etisal International, Etisalat Project**  
-  Jan 2014 - Feb 2017  
-  - First line technical support, ADSL (corporate and Afmic).
 
-- **Xceed, ADSL Technical Support**  
-  Feb 2017 - Feb 2019  
+### 🖥️ Data Center Operations Specialist at Fawry (May 2023 - Present)
+- Monitor services daily for issues or disruptions
+- Coordinate with network team to resolve internal problems
+- Liaise with external partners for service-related issues
+- Arrange and lead joint calls to solve complex problems
+- Maintain detailed records of service problems and resolutions
 
-- **Raya, Customer Care (Miraco Account)**  
-  Feb 2019 - Oct 2019  
+### 👨‍💻 Customer Service Representative at Xceed, Talabat Account (March 2020 - April 2023)
+- Handled back-office customer care and rider support
 
-- **Jumia, Customer Service**  
-  Oct 2019 - Dec 2019  
+### 🛠️ Technical Support Specialist at Xceed, ADSL Project (February 2017 - February 2019)
+- Provided first-line technical support for ADSL (corporate and Afmic)
 
-- **Xceed, Back-Office and Customer Service (Talabat Account)**  
-  Mar 2020 - Present  
-  - Handling customer and rider inquiries, resolving complaints, and meeting KPIs.
+### 📞 Technical Support Specialist at Etisal International, Etisalat Project (January 2014 - February 2017)
+- Customer Service and First-line Technical Support
 
-### Accounting
-- **El Habashy Air Conditioning**  
-  Sep 2011 - Sep 2012
+## 🛠️ Skills
 
-- **Auto Mansy for Cars**  
-  Nov 2012 - Dec 2013
+### Technical Skills
+- 💻 Microsoft Office (Excel, Word, PowerPoint)
+- 🖥️ Windows Operating System
+- 🌐 Internet
 
-- **Insurance Broker**  
-  Jan 2019 - Aug 2020
+### Key Skills
+- 👥 Customer service and support
+- 🔧 Technical troubleshooting
+- 🤝 Inter-departmental coordination
+- 🧠 Problem-solving
+- 👨‍👩‍👧‍👦 Team leadership
 
----
+### Soft Skills
+- 🔍 Excellent research abilities
+- 🚀 Quick learner of new technologies
+- 🤝 Strong team player
+- 🎭 Adaptable to various work environments
+- ⏱️ Time management
+- 📊 Analytical thinking
+- 👁️ Attention to detail
 
-## 💻 Skills
-- **Languages**: 
-  - 🇦🇪 Arabic (Native)  
-  - 🇬🇧 English (Good spoken and written)
-  
-- **Computer Skills**: 
-  - Windows, Internet  
-  - **MS Excel, MS Word** (Excellent)  
-  - **MS PowerPoint** (Very Good)
-
-- **Accounting Skills**:  
-  - Manage financial transactions, prepare budgets, and audit documents.
-  - Handle bank reconciliations, tax computations, and prepare financial statements.
-
----
-
-## 🤝 Soft Skills
-- Ability to work under pressure and solve problems.
-- Strong team player and independent worker.
-- Excellent research abilities and technical problem-solving.
-- Capable of handling customer complaints and leading support teams.
+## 🗣️ Languages
+- 🇪🇬 Arabic (Native)
+- 🇬🇧 English (Good spoken and written)
 
 ---
 
-## 🌐 Let's Connect!
-Feel free to reach out to me via email or phone for any inquiries or opportunities.
+💼 [LinkedIn](www.linkedin.com/in/mohamed-hamido-3b2514171
 
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
+)
+🐦 [Twitter](Your Twitter URL here)
