@@ -1,1 +1,59 @@
-# Mohamed Hamedo Hussein**Business Operations · Service Management · FinTech**Giza, Egypt · [LinkedIn](https://linkedin.com/in/mohamed-hamido-hussien-3b2514171) · mohamedhamedo135@gmail.com📄 [Download CV (DOCX)](https://github.com/Mhamido-ab/Mhamido-ab/raw/main/Mohamed_Hamedo_Hussein_CV.docx)---## About meOperations professional with **3+ years in FinTech at Fawry**, specializing in **Incident & Problem Management**, service availability, and operational process improvement. I own end-to-end incident lifecycles, conduct **Root Cause Analysis (RCA)**, validate service readiness before go-live, and coordinate cross-functional teams during critical events.Strong analytical background with **Excel, Power BI, and SQL** to track operational KPIs and turn data into actionable insight. Seeking opportunities in **Business Operations** focused on operational excellence, process standardization, and reliable service onboarding.---## Core competencies| Operations | Data & tools ||------------|----------------|| UAT & service validation | Advanced Excel (Pivot, lookups, dashboards) || Service onboarding & readiness | Power BI dashboards || Process improvement & standardization | SQL (queries, joins) || Incident & problem management (ITIL) | Python (Pandas basics) || RCA & corrective actions | || Stakeholder & cross-functional coordination | |---## Experience### Fawry — Incident & Problem Management Specialist*April 2026 – Present · Smart Village, Giza*- Own end-to-end incident and problem management for critical business services- Conduct RCA within 24 hours of restoration; drive permanent corrective actions- Validate operational readiness after fixes, changes, and enhancements- Lead major incident calls with engineering, network, and vendor teams- Monitor KPIs (volume, downtime, MTTR, recurrence) and report trends- Analyze incident data in Excel/Power BI; standardize documentation and reporting### Fawry — Data Center Operator (Service Monitoring)*May 2023 – April 2026 · Smart Village, Giza*
+# Mohamed Hamedo Hussein
+
+
+**Business Operations · Service Management · FinTech**
+
+
+Giza, Egypt · [LinkedIn](https://linkedin.com/in/mohamed-hamido-hussien-3b2514171) · mohamedhamedo135@gmail.com
+
+📄 [Download CV (DOCX)](https://github.com/Mhamido-ab/Mhamido-ab/raw/main/Mohamed_Hamedo_Hussein_CV.docx)
+
+
+---
+
+
+## About me
+
+
+Operations professional with **3+ years in FinTech at Fawry**, specializing in **Incident & Problem Management**, service availability, and operational process improvement. I own end-to-end incident lifecycles, conduct **Root Cause Analysis (RCA)**, validate service readiness before go-live, and coordinate cross-functional teams during critical events.
+
+
+Strong analytical background with **Excel, Power BI, and SQL** to track operational KPIs and turn data into actionable insight. Seeking opportunities in **Business Operations** focused on operational excellence, process standardization, and reliable service onboarding.
+
+
+---
+
+
+## Core competencies
+
+
+| Operations | Data & tools |
+|------------|----------------|
+| UAT & service validation | Advanced Excel (Pivot, lookups, dashboards) |
+| Service onboarding & readiness | Power BI dashboards |
+| Process improvement & standardization | SQL (queries, joins) |
+| Incident & problem management (ITIL) | Python (Pandas basics) |
+| RCA & corrective actions | |
+| Stakeholder & cross-functional coordination | |
+
+
+---
+
+
+## Experience
+
+
+### Fawry — Incident & Problem Management Specialist
+*April 2026 – Present · Smart Village, Giza*
+
+
+- Own end-to-end incident and problem management for critical business services
+- Conduct RCA within 24 hours of restoration; drive permanent corrective actions
+- Validate operational readiness after fixes, changes, and enhancements
+- Lead major incident calls with engineering, network, and vendor teams
+- Monitor KPIs (volume, downtime, MTTR, recurrence) and report trends
+- Analyze incident data in Excel/Power BI; standardize documentation and reporting
+
+
+### Fawry — Data Center Operator (Service Monitoring)
+*May 2023 – April 2026 · Smart Village, Giza*
